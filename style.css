@@ -1,0 +1,39 @@
+body{
+    font-family: 'Noto Sans Mono', monospace;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.header_div{
+    background: powderblue;
+    color: royalblue;
+}
+
+.header_div p{
+    font-family: 'Special Elite', cursive;
+    color: salmon;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'IM Fell English SC', serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: paleturquoise;
+    color: mediumvioletred;
+    text-align: center;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
